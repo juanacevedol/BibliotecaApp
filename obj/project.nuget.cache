@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VymxHCTG+M=",
+  "success": true,
+  "projectFilePath": "D:\\proyectos visual studio\\BibliotecaApp\\BibliotecaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viviana Urrego\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Viviana Urrego\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Viviana Urrego\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
